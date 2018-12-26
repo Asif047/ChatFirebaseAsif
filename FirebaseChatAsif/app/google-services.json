@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466579731992",
+    "firebase_url": "https://fir-chatasif.firebaseio.com",
+    "project_id": "fir-chatasif",
+    "storage_bucket": "fir-chatasif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466579731992:android:bde1e553667fb230",
+        "android_client_info": {
+          "package_name": "com.asif047.firebasechatasif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466579731992-6aucpa9v4v2lfn5025dhu6oe0ok65ubh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asif047.firebasechatasif",
+            "certificate_hash": "6dd2a94ffe5c7fa61cd45dd20025582eb747d5ad"
+          }
+        },
+        {
+          "client_id": "466579731992-d2h57g6m365u2fe3bdv890rn1dqa4dos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_cduAH3g53tOM-iAXI6Pf8n22bVOwso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466579731992-d2h57g6m365u2fe3bdv890rn1dqa4dos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
